@@ -1,1 +1,2 @@
-# Hello fot my repository on Giyhub
+# Hello fot my repository on Github
+# Soon time to rest 
